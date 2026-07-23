@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { getDashboardData } from "../../services/AiService.js";
+import { getDashboardData } from "../../services/AService.js";
 import { useAuthContext } from "../../context/AuthContext.jsx";
 import DayWiseSpendChart from "../../components/user/DayWiseSpendChart.jsx";
 import StatCard from "../../components/user/StatCard.jsx";
