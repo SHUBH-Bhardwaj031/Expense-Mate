@@ -34,19 +34,19 @@ function Header() {
                             href="#"
                             className="px-3 py-2 rounded-lg text-sm font-medium text-white hover:text-gray-900 hover:bg-gray-100 transition"
                         >
-                            Reports
+                            {/* Reports */}
                         </a>
                         <a
                             href="#"
                             className="px-3 py-2 rounded-lg text-sm font-medium text-white hover:text-gray-900 hover:bg-gray-100 transition"
                         >
-                            Categories
+                            {/* Categories */}
                         </a>
                         <a
                             href="#"
                             className="px-3 py-2 rounded-lg text-sm font-medium text-white hover:text-gray-900 hover:bg-gray-100 transition"
                         >
-                            Settings
+                            {/* Settings */}
                         </a>
                     </nav>
 
